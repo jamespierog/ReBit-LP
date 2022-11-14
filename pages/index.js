@@ -3,7 +3,7 @@ import Hero from "../components/hero";
 import Navbar from "../components/navbar";
 import SectionTitle from "../components/sectionTitle";
 
-import { benefitOne, benefitTwo } from "../components/data";
+import { benefitOne, benefitTwo, benefitThree } from "../components/data";
 import Video from "../components/video";
 import Benefits from "../components/benefits";
 import Footer from "../components/footer";
@@ -28,10 +28,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>ReBit - Reimagine Bitcoin</title>
         <meta
-          name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          name="Pay Anyone from Anywhere."
+          content="Make and receive international payments from the comfort of your e-wallet, bank, or Bitcoin wallet."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -39,23 +39,28 @@ export default function Home() {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Nextly Benefits"
-        title=" Why should you use this landing page">
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
-      </SectionTitle>
-      <Benefits data={benefitOne} />
-      <Benefits imgPos="right" data={benefitTwo} />
-      <SectionTitle
-        pretitle="Watch a video"
-        title="Learn how to fullfil your needs">
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don't forget to add one. Just like this.
-      </SectionTitle>
-      <Video />
-      <SectionTitle
+        pretitle="ReBit Benefits"
+      title="ReBit removes your payment problems">
+          The ReBit payment experience is fast, secure, cheap, and easy. From sending a payment to an overseas
+      supplier or your family back home, making a paying with ReBit is simple.
+
+          </SectionTitle>
+          <SectionTitle
+            title="For Personal Use"
+          >
+          </SectionTitle>
+          <Benefits data={benefitOne} />
+          <SectionTitle
+            title="For Businesses"
+          >
+          </SectionTitle>
+          <Benefits imgPos="right" data={benefitTwo} />
+          <SectionTitle
+            title="For Traders"
+          >
+          </SectionTitle>
+          <Benefits imgPos="left" data={benefitThree} />
+            <SectionTitle
         pretitle="Testimonials"
         title="Here's what our customers said">
         Testimonails is a great way to increase the brand trust and awareness.

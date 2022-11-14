@@ -4,11 +4,10 @@ import { Disclosure } from "@headlessui/react";
 
 export default function Navbar() {
   const navigation = [
-    "Product",
-    "Features",
-    "Pricing",
-    "Company",
-    "Blog",
+    "Personal",
+    "Business",
+    "Traders",
+    "Early Access",
   ];
 
   return (
@@ -25,12 +24,12 @@ export default function Navbar() {
                       <img
                         src="/img/logo.svg"
                         alt="N"
-                        width="32"
-                        height="32"
+                        width="64"
+                        height="64"
                         className="w-8"
                       />
                     </span>
-                    <span>Nextly</span>
+                    <span>ReBit</span>
                   </a>
                 </Link>
 

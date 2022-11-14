@@ -1,4 +1,28 @@
-<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="44" height="44" rx="6" fill="#4F46E5"/>
-<path d="M31.3662 34H25.7427L17.4282 19.4014V34H11.7725V10.5391H17.4282L25.7266 25.1377V10.5391H31.3662V34Z" fill="white"/>
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient id="gradient-9-0" gradientUnits="userSpaceOnUse" cx="1002.003" cy="1046.432" r="442.003" xlink:href="#gradient-9"/>
+    <linearGradient id="gradient-9">
+      <stop offset="0" style="stop-color: #59c173;"/>
+      <stop offset="0.5" style="stop-color: #a17fe0;"/>
+      <stop offset="1" style="stop-color: #5d26c1;"/>
+    </linearGradient>
+    <radialGradient id="gradient-9-1" gradientUnits="userSpaceOnUse" cx="721.638" cy="1114.295" r="72.362" xlink:href="#gradient-9"/>
+    <radialGradient id="gradient-9-2" gradientUnits="userSpaceOnUse" cx="1283.256" cy="1114.156" r="74.001" xlink:href="#gradient-9"/>
+    <radialGradient id="gradient-9-3" gradientUnits="userSpaceOnUse" cx="1000.872" cy="475" r="376.972" xlink:href="#gradient-9"/>
+    <radialGradient id="gradient-9-4" gradientUnits="userSpaceOnUse" cx="588.826" cy="406" r="187.823" xlink:href="#gradient-9"/>
+    <radialGradient id="gradient-9-5" gradientUnits="userSpaceOnUse" cx="1410.521" cy="404.155" r="188.411" xlink:href="#gradient-9"/>
+    <radialGradient id="gradient-9-6" gradientUnits="userSpaceOnUse" cx="295.303" cy="192.032" r="229.697" xlink:href="#gradient-9"/>
+    <radialGradient id="gradient-9-7" gradientUnits="userSpaceOnUse" cx="1704.548" cy="188.969" r="229.548" xlink:href="#gradient-9"/>
+  </defs>
+  <g transform="matrix(0.253455, 0, 0, -0.253455, -6.769969, 397.580566)" fill="#000000" stroke="none" style="">
+    <path d="M636 1258 c-51 -30 -76 -78 -76 -146 0 -67 24 -114 88 -174 53 -50 97 -75 182 -104 77 -27 263 -26 340 0 175 60 273 161 274 282 1 137 -145 209 -264 130 -39 -26 -44 -27 -111 -17 -59 8 -146 3 -198 -12 -3 -1 -25 12 -49 28 -60 39 -132 45 -186 13z m176 -68 c38 -31 42 -32 81 -20 52 15 160 16 215 1 40 -11 44 -10 80 19 93 75 205 34 205 -75 0 -171 -281 -301 -518 -240 -113 30 -215 97 -251 166 -17 33 -18 99 -3 132 29 65 121 73 191 17z" style="fill: url(#gradient-9-0);"/>
+    <path d="M676 1169 c-52 -41 -23 -129 43 -129 45 0 75 30 75 75 0 67 -64 96 -118 54z m73 -38 c7 -13 6 -23 -3 -36 -17 -24 -50 -15 -54 14 -6 39 39 56 57 22z" style="fill: url(#gradient-9-1);"/>
+    <path d="M1236 1169 c-33 -26 -36 -79 -6 -109 48 -48 139 -2 126 63 -12 62 -70 85 -120 46z m74 -40 c9 -15 8 -24 -1 -35 -18 -22 -53 -13 -57 15 -6 40 39 56 58 20z" style="fill: url(#gradient-9-2);"/>
+    <path d="M641 813 c-47 -242 2 -423 158 -581 60 -61 180 -152 200 -152 25 0 138 86 206 155 152 155 204 353 155 583 -12 56 -16 59 -42 39 -13 -11 -15 -21 -8 -53 24 -114 25 -107 -29 -143 -105 -68 -212 -218 -257 -364 -10 -31 -21 -54 -24 -50 -4 5 -17 37 -29 73 -49 140 -159 289 -256 346 l-42 24 8 54 c4 30 10 64 14 75 7 23 -9 51 -30 51 -7 0 -17 -24 -24 -57z m108 -238 c33 -31 77 -82 98 -113 39 -59 96 -198 109 -267 l7 -39 -43 34 c-115 91 -203 212 -228 315 -17 69 -23 125 -13 125 6 0 37 -25 70 -55z m576 3 c-20 -144 -93 -267 -219 -369 -33 -27 -62 -46 -64 -44 -9 9 51 182 86 250 36 68 167 215 192 215 8 0 10 -15 5 -52z" style="fill: url(#gradient-9-3);"/>
+    <path d="M425 714 c-27 -55 -32 -191 -11 -274 25 -101 72 -185 140 -255 58 -59 164 -125 201 -125 43 0 19 74 -46 145 -42 46 -107 86 -161 99 -69 16 -126 254 -87 365 12 35 14 35 93 15 23 -5 26 -3 26 19 0 29 -12 35 -84 43 l-53 6 -18 -38z m183 -488 c32 -17 101 -86 85 -86 -6 0 -34 18 -61 40 -71 55 -81 76 -24 46z" style="fill: url(#gradient-9-4);"/>
+    <path d="M1462 740 c-42 -10 -45 -14 -37 -40 4 -12 12 -19 20 -16 8 3 29 8 48 11 33 7 35 5 47 -30 20 -60 8 -208 -21 -280 -26 -62 -27 -63 -127 -106 -84 -36 -185 -160 -168 -205 8 -21 30 -17 99 17 120 61 224 196 262 339 20 75 18 213 -3 270 -16 41 -21 45 -52 47 -19 1 -50 -2 -68 -7z m-37 -510 c-11 -18 -106 -90 -118 -90 -6 0 2 14 19 31 42 46 118 90 99 59z" style="fill: url(#gradient-9-5);"/>
+    <path d="M351 309 c-61 -12 -160 -60 -204 -99 -51 -45 -94 -117 -78 -133 8 -8 78 -12 234 -12 215 0 222 1 222 20 0 19 -8 20 -187 25 -102 3 -190 8 -194 13 -13 12 47 66 109 97 32 16 85 35 117 41 57 11 58 12 48 35 -6 13 -14 24 -17 23 -3 -1 -26 -5 -50 -10z" style="fill: url(#gradient-9-6);"/>
+    <path d="M1586 295 c-15 -22 -14 -23 47 -35 34 -6 83 -23 110 -36 52 -27 131 -93 121 -103 -3 -3 -92 -8 -197 -11 -184 -5 -192 -6 -192 -25 0 -19 7 -20 222 -20 150 0 226 4 233 11 16 16 -17 79 -62 120 -69 64 -131 95 -225 113 -38 7 -44 6 -57 -14z" style="fill: url(#gradient-9-7);"/>
+  </g>
 </svg>
