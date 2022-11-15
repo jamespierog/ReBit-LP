@@ -35,21 +35,21 @@ export default function Faq() {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "Are micropayments possible with ReBit?",
+    answer: "Yes, you'll be able to send micropayments as tips or stream money over the lightning network to pay podcast, music, or video creators.",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "What is the total transaction fee?",
+    answer: "It will be a flat 1% transaction fee for all payments.",
   },
   {
-    question: "What is your refund policy? ",
+    question: "How long does it take to settle payments?",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Instantly. Our accounting system works under Bitcoin Lightning infrastructure which enables financial transaction settlemnet at the speed of the internet.",
   },
   {
-    question: "Do you offer technical support? ",
+    question: "Do you offer technical support?",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "Yes, we offer lifetime customer support to all our clients.",
   },
 ];
