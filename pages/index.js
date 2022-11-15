@@ -38,14 +38,7 @@ export default function Home() {
 
       <Navbar />
       <Hero />
-      <SectionTitle
-        pretitle="ReBit Benefits"
-      title="ReBit removes your payment problems">
-          The ReBit payment experience is fast, secure, cheap, and easy. From sending a payment to an overseas
-      supplier or your family back home, making a paying with ReBit is simple.
-
-          </SectionTitle>
-          <SectionTitle
+         <SectionTitle
             title="For Personal Use"
           >
           </SectionTitle>
@@ -63,13 +56,9 @@ export default function Home() {
             <SectionTitle
         pretitle="Testimonials"
         title="Here's what our customers said">
-        Testimonails is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
       </SectionTitle>
       <Testimonials />
       <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
       </SectionTitle>
       <Faq />
       <Cta />

@@ -9,25 +9,26 @@ import {
 
 import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
+import benefitThreeImg from "../public/img/benefit-three.png";
 
 const benefitOne = {
   title: "A Truly International E-Wallet",
-  desc: "Use your ReBit wallet anywhere in the world to make or accept payments.",
+  desc: "Easily make or accept international payments.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Travel without currency conversion",
-      desc: "Then explain the first point breifly in one or two lines.",
-      icon: <EmojiHappyIcon />,
-    },
-    {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Easily send money to family overseas",
+      desc: "Send money to any e-wallet or bank account.",
       icon: <ChartSquareBarIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+        title: "Travel without high currency conversion fees",
+        desc: "Pay anyone from anywhere without the headache of high fees.",
+        icon: <EmojiHappyIcon />,
+    },
+    {
+      title: "Passively keep track of your finances",
+      desc: "Manage your budget with privacy-first financing features.",
       icon: <CursorClickIcon />,
     },
   ],
@@ -35,22 +36,22 @@ const benefitOne = {
 
 const benefitTwo = {
   title: "Keep Your Customers and Your Margin",
-  desc: "Accept payment from any e-wallet or bank account diretly to your bank account without any of the high margins and fees of other payment gateways." ,
+  desc: "Accept payment from any e-wallet or bank account diretly to your bank account with a flat 1% fee." ,
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Accept international payments with low margin",
-      desc: "Nextly is designed as a mobile first responsive template.",
+        title: "Instantly accept international payments online",
+      desc: "Receive payments of any amount directly to your bank or e-wallet.",
       icon: <DeviceMobileIcon />,
     },
     {
-      title: "Easily Integrate a payments widget or API to your website",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Easily integrate a payments widget or API to your website",
+      desc: "Integrate the ReBit point of sale widget or API in under five minutes.",
       icon: <AdjustmentsIcon />,
     },
     {
-      title: "Start accepting payments instantly",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Pay overseas employees with their preferred payment rail",
+      desc: "Payments are settled instantly with the help of the Bitcoin Lightning network and partnerships with local banks and e-wallets.",
       icon: <SunIcon />,
     },
   ],
@@ -58,22 +59,22 @@ const benefitTwo = {
 
 const benefitThree = {
     title: "Earn Yield on your Bitcoin Without Giving Up Custody",
-    desc: "Accept payment from any e-wallet or bank account diretly to your bank account without any of the high margins and fees of other payment gateways." ,
-    image: benefitTwoImg,
+    desc: "Get paid to provide payment routing services while keeping custody of your Bitcoin." ,
+    image: benefitThreeImg,
     bullets: [
         {
-            title: "Accept international payments with low margin",
-            desc: "Nextly is designed as a mobile first responsive template.",
+            title: "Route payments across the lightning network for fees",
+            desc: "Put your Bitcoin to work by routing payments over the Bitcoin Lightning network and collect fees.",
             icon: <DeviceMobileIcon />,
         },
         {
-            title: "Easily Integrate a payments widget or API to your website",
-            desc: "This template is powered by latest technologies and tools.",
+            title: "Instantly trade BTC/Fiat pairs in an open P2P exchange.",
+            desc: "Trade Bitcoin for fiat or fiat for Bitcoin in an open and transparent market.",
             icon: <AdjustmentsIcon />,
         },
         {
-            title: "Start accepting payments instantly",
-            desc: "Nextly comes with a zero-config light & dark mode. ",
+            title: "Become a one-click Bitcoin/Fiat exchange",
+            desc: "Help onboard the next generation of Bitcoiners and collect fees.",
             icon: <SunIcon />,
         },
     ],
